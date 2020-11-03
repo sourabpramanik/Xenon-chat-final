@@ -10,6 +10,11 @@
       "StackName": "amplify-xenonchat02-dev-223755",
       "StackId": "arn:aws:cloudformation:us-east-1:965543882171:stack/amplify-xenonchat02-dev-223755/2144b290-1df7-11eb-b892-0af60b3b604b",
       "AmplifyAppId": "dl72xpd9cwzfo"
+    },
+    "categories": {
+      "auth": {
+        "xenonchat02a4fa9757": {}
+      }
     }
   }
 }
